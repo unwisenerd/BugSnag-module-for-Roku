@@ -1,1 +1,1 @@
-# BugSnag-module-for-Roku
+# BugSnag-module-for-Roku v1.0
